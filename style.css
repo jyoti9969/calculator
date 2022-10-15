@@ -1,0 +1,46 @@
+#container{
+    margin-top:9vw;
+    margin-left: 35vw;
+}
+
+table,tr,td{
+    border: 1px solid rgb(214, 200, 200);
+    background-color: rgb(214, 200, 200);
+}
+table{
+    height:25vw;
+    width:30vw;
+}
+td{
+    text-align: center;
+    background-color: white;
+}
+.red{
+    
+    background-color: brown;
+}
+#input-container{
+    height:6vw;
+    width:25.5rem;
+    background-color:  rgb(214, 200, 200);
+}
+.button{
+    background-color: white;
+   border:white;
+    font-size:larger;
+    height:55px;
+    width:95px;
+}
+.box{
+    background-color: brown;
+    color:white;
+}
+#inputbox{
+    font-size:xx-large;
+    color:white;
+    padding-top: 2rem;
+    text-align: end;
+    
+    padding-right:1rem ;
+    padding-left:1rem ;
+}
